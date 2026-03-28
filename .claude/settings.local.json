@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.sofascore.com)",
+      "Read(//c/Users/HouCong/Desktop/test/list/**)",
+      "Bash(curl -s http://localhost:5177/)"
+    ]
+  }
+}
