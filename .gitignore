@@ -35,3 +35,5 @@ scraper_state.json
 # Misc
 *.tmp
 *.temp
+
+.vercel
